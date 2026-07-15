@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Afnaan 👋
 
-<!--
-**TheTempest76/TheTempest76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student from Bangalore, India, passionate about building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+My interests include:
+- 🤖 AI Engineering & Agentic AI
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🚁 Autonomous Robotics & Computer Vision
+- 🌐 Full-Stack Development
+- ⚡ Building products that people actually use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm currently working on
+
+- AI-powered applications using modern LLMs
+- Autonomous drone perception and navigation
+- Full-stack SaaS products
+- Exploring scalable backend systems with Go
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python • JavaScript • TypeScript • Go • C++
+
+**AI & ML**
+
+PyTorch • TensorFlow • OpenCV • LangChain • RAG • Vector Databases
+
+**Frontend**
+
+React • Next.js • Flutter • HTML • CSS
+
+**Backend**
+
+Node.js • FastAPI • Express • REST APIs
+
+**Databases**
+
+PostgreSQL • MySQL • MongoDB
+
+**Tools**
+
+Git • Docker • Linux • VS Code • Firebase • Vercel
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Applications
+Building intelligent assistants, RAG pipelines, and agentic workflows using modern LLMs.
+
+### 🚁 Autonomous Drone Systems
+Computer vision-powered autonomous navigation using ROS, YOLO, TensorRT, and Jetson.
+
+### 🌐 Full-Stack Products
+Building scalable web applications with modern frontend and backend technologies.
+
+---
+
+## 🌱 Currently Learning
+
+- Distributed Systems
+- LLM Infrastructure
+- System Design
+- High-performance Backend Development
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+- Portfolio: https://YOUR_WEBSITE
+- Email: YOUR_EMAIL
+
+---
+
+> "Build things. Learn from them. Repeat."
