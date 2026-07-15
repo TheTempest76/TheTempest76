@@ -72,9 +72,9 @@ Building scalable web applications with modern frontend and backend technologies
 
 ## 📫 Connect with me
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Portfolio: https://YOUR_WEBSITE
-- Email: YOUR_EMAIL
+- LinkedIn: https://linkedin.com/in/afnaan-ayub
+- Portfolio: https://www.afnaan.tech
+- Email: afnaanayub26@gmail.com
 
 ---
 
