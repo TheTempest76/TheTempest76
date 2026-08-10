@@ -7,7 +7,7 @@ My interests include:
 - 🧠 Retrieval-Augmented Generation (RAG)
 - 🚁 Autonomous Robotics & Computer Vision
 - 🌐 Full-Stack Development
-- ⚡ Building products that people actually use
+- ⚡ Building products that I find useful
 
 ---
 
@@ -16,7 +16,7 @@ My interests include:
 - AI-powered applications using modern LLMs
 - Autonomous drone perception and navigation
 - Full-stack SaaS products
-- Exploring scalable backend systems with Go
+- 🧩 Practicing DSA and competing on leetcode
 
 ---
 
@@ -24,11 +24,11 @@ My interests include:
 
 **Languages**
 
-Python • JavaScript • TypeScript • Go • C++
+Python • JavaScript • TypeScript • C++ • Java • C 
 
 **AI & ML**
 
-PyTorch • TensorFlow • OpenCV • LangChain • RAG • Vector Databases
+PyTorch • Pytorch • OpenCV • LangChain • RAG • Vector Databases
 
 **Frontend**
 
@@ -44,7 +44,7 @@ PostgreSQL • MySQL • MongoDB
 
 **Tools**
 
-Git • Docker • Linux • VS Code • Firebase • Vercel
+Git • Docker • Linux • VS Code • Firebase • Vercel 
 
 ---
 
@@ -53,8 +53,8 @@ Git • Docker • Linux • VS Code • Firebase • Vercel
 ### 🤖 AI Applications
 Building intelligent assistants, RAG pipelines, and agentic workflows using modern LLMs.
 
-### 🚁 Autonomous Drone Systems
-Computer vision-powered autonomous navigation using ROS, YOLO, TensorRT, and Jetson.
+### 🚁 Autonomous Robotics Systems
+Computer vision-powered autonomous navigation in drones and rovers using ROS, YOLO, TensorRT, and Jetson.
 
 ### 🌐 Full-Stack Products
 Building scalable web applications with modern frontend and backend technologies.
