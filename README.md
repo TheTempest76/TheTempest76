@@ -1,81 +1,39 @@
-# Hi, I'm Afnaan 👋
+# Hi I'm Afnaan
 
-I'm a Computer Science student from Bangalore, India, passionate about building intelligent systems that solve real-world problems.
+Computer Science student in Bangalore building intelligent systems that solve real-world problems.
 
-My interests include:
-- 🤖 AI Engineering & Agentic AI
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🚁 Autonomous Robotics & Computer Vision
-- 🌐 Full-Stack Development
-- ⚡ Building products that I find useful
+**Interests:** AI engineering and agentic AI, RAG, autonomous robotics and computer vision, full-stack development
 
----
+## Current Work
 
-## 🚀 What I'm currently working on
-
-- AI-powered applications using modern LLMs
+- AI applications built on modern LLMs
 - Autonomous drone perception and navigation
 - Full-stack SaaS products
-- 🧩 Practicing DSA and competing on leetcode
+- DSA practice and LeetCode contests
 
----
+## Tech Stack
 
-## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, C++, Java, C
+- **AI/ML:** PyTorch, OpenCV, LangChain, RAG, vector databases
+- **Frontend:** React, Next.js, Flutter
+- **Backend:** Node.js, FastAPI, Express, REST APIs
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, Docker, Linux, Firebase, Vercel
 
-**Languages**
+## Projects
 
-Python • JavaScript • TypeScript • C++ • Java • C 
+- **AI Applications:** Assistants, RAG pipelines, and agentic workflows
+- **Autonomous Robotics:** Vision-based navigation for drones and rovers using ROS, YOLO, TensorRT, and Jetson
+- **Full-Stack Products:** Scalable web applications
 
-**AI & ML**
+## Learning
 
-PyTorch • Pytorch • OpenCV • LangChain • RAG • Vector Databases
+Distributed systems, LLM infrastructure, system design, high-performance backend development
 
-**Frontend**
+## Contact
 
-React • Next.js • Flutter • HTML • CSS
-
-**Backend**
-
-Node.js • FastAPI • Express • REST APIs
-
-**Databases**
-
-PostgreSQL • MySQL • MongoDB
-
-**Tools**
-
-Git • Docker • Linux • VS Code • Firebase • Vercel 
-
----
-
-## 📌 Featured Projects
-
-### 🤖 AI Applications
-Building intelligent assistants, RAG pipelines, and agentic workflows using modern LLMs.
-
-### 🚁 Autonomous Robotics Systems
-Computer vision-powered autonomous navigation in drones and rovers using ROS, YOLO, TensorRT, and Jetson.
-
-### 🌐 Full-Stack Products
-Building scalable web applications with modern frontend and backend technologies.
-
----
-
-## 🌱 Currently Learning
-
-- Distributed Systems
-- LLM Infrastructure
-- System Design
-- High-performance Backend Development
-
----
-
-## 📫 Connect with me
-
-- LinkedIn: https://linkedin.com/in/afnaan-ayub
-- Portfolio: https://www.afnaan.tech
-- Email: afnaanayub26@gmail.com
-
----
+[LinkedIn](https://linkedin.com/in/afnaan-ayub) | [Portfolio](https://www.afnaan.tech) | afnaanayub26@gmail.com
 
 > "Build things. Learn from them. Repeat."
+
+I also removed the duplicate "Pytorch" entry and the redundant HTML/CSS and VS Code items.
